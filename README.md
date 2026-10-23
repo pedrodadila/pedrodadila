@@ -2,6 +2,11 @@
 <h3 align="center">SEO & GEO desde 2015 · Sites que aparecem no Google e nas IAs</h3>
 
 <p align="center">
+  <a href="https://pedroribeiro.click"><img src="https://img.shields.io/badge/Portfólio-pedroribeiro.click-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://pedroribeiro.click/frelas"><img src="https://img.shields.io/badge/Freelas-contrate-FF6B00?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+</p>
+
+<p align="center">
   <a href="https://pharconsultoria.com"><img src="https://img.shields.io/badge/PHAR_Consultoria-site-0A66C2?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-ribeiro/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://wa.me/5537984125469"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -17,6 +22,7 @@
 - 🤖 Hoje foco em **GEO/AEO**: deixar marcas citáveis por ChatGPT, Gemini, Perplexity e Google AI
 - 📊 Liderei times de **Performance** (SEO, mídia e afiliados) em operações digitais de alto volume
 - 🏢 Fundador da **[PHAR Consultoria](https://pharconsultoria.com)**
+- 🌐 Portfólio: **[pedroribeiro.click](https://pedroribeiro.click)** · Serviços freelance: **[pedroribeiro.click/frelas](https://pedroribeiro.click/frelas)**
 - 🛠️ Construindo sites e sistemas com IA + Vercel + Supabase — e documentando o aprendizado aqui
 
 ### 💼 O que eu entrego
@@ -53,5 +59,5 @@
 ---
 
 <p align="center">
-  <i>Precisa aparecer no Google e nas IAs? <a href="https://wa.me/5537984125469">Me chama no WhatsApp</a>.</i>
+  <i>Precisa aparecer no Google e nas IAs? Veja <a href="https://pedroribeiro.click/frelas">meus serviços</a> ou <a href="https://wa.me/5537984125469">me chama no WhatsApp</a>.</i>
 </p>
