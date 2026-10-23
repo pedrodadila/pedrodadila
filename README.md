@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://pedroribeiro.click"><img src="https://img.shields.io/badge/Portfólio-pedroribeiro.click-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://pedroribeiro.click/frelas"><img src="https://img.shields.io/badge/Freelas-contrate-FF6B00?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+  <a href="https://pedroribeiro.click/freelas"><img src="https://img.shields.io/badge/Freelas-contrate-FF6B00?style=for-the-badge&logo=rocket&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 - 🤖 Hoje foco em **GEO/AEO**: deixar marcas citáveis por ChatGPT, Gemini, Perplexity e Google AI
 - 📊 Liderei times de **Performance** (SEO, mídia e afiliados) em operações digitais de alto volume
 - 🏢 Fundador da **[PHAR Consultoria](https://pharconsultoria.com)**
-- 🌐 Portfólio: **[pedroribeiro.click](https://pedroribeiro.click)** · Serviços freelance: **[pedroribeiro.click/frelas](https://pedroribeiro.click/frelas)**
+- 🌐 Portfólio: **[pedroribeiro.click](https://pedroribeiro.click)** · Serviços freelance: **[pedroribeiro.click/freelas](https://pedroribeiro.click/freelas)**
 - 🛠️ Construindo sites e sistemas com IA + Vercel + Supabase — e documentando o aprendizado aqui
 
 ### 💼 O que eu entrego
